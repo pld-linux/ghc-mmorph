@@ -7,7 +7,7 @@ Summary:	Monad morphisms
 Summary(pl.UTF-8):	Morfizm monad
 Name:		ghc-%{pkgname}
 Version:	1.1.3
-Release:	1
+Release:	2
 License:	BSD
 Group:		Development/Languages
 #Source0Download: http://hackage.haskell.org/package/mmorph
